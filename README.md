@@ -13,11 +13,4 @@ Watson is a question-answering computer system capable of answering questions po
 ![2020-05-02_112218](https://user-images.githubusercontent.com/46414243/80860390-a8383f00-8c67-11ea-890c-d8164611b209.png)
 ![2020-05-02_112206](https://user-images.githubusercontent.com/46414243/80860392-a8d0d580-8c67-11ea-9564-533fbdb9396d.png)
 
-**This link for project 
-https://integrations.eu-gb.assistant.watson.cloud.ibm.com/web/public/04c7f9c5-6d1e-4fbf-a2cd-b9b7957dd4c6**
 
-![2020-05-02_113156](https://user-images.githubusercontent.com/46414243/80860551-9b681b00-8c68-11ea-914e-f0a1d4c1836f.png)
-
-WordPress (WordPress.org) is a free and open-source content management system (CMS) written in PHP
-
-https://nabiehmostafayahoocom.intelaedu.com/
